@@ -1,5 +1,34 @@
 # NETWORKWALKS-Amina-B084-WK1-PMX-WIRESHARK-SOC-LABS
 This a Wireshark  SOC labs
+📌 Project Overview
+This project is part of the Week 1 Extra Project in the NetworkWalks Cybersecurity Internship 2026.
+The project focuses on practical network traffic analysis and security investigation using Wireshark through six hands-on SOC (Security Operations Center) laboratory exercises.
+Throughout these labs, I explored different cybersecurity scenarios, including identifying attackers’ IP addresses, analyzing TCP communication, investigating exposed credentials, detecting brute-force attacks, and examining suspicious VoIP communication.
+🎯 Objectives
+
+• Understand network traffic analysis.
+• Learn packet inspection using Wireshark.
+• Identify suspicious IP addresses.
+• Analyze TCP communication using Follow TCP Stream.
+• Investigate HTTP plain-text credentials.
+• Understand brute-force attacks.
+• Analyze VoIP traffic and call replay.
+• Practice Wireshark display filters.
+• Develop practical SOC investigation skills.
+
+🛡️ Purpose of the Project
+
+This project aims to develop practical knowledge of network security monitoring and investigation.
+The skills practiced in these labs are relevant to:
+• Network Traffic Monitoring
+• Packet Analysis
+• IP Address Investigation
+• TCP Stream Analysis
+• HTTP Security Analysis
+• Credential Exposure Investigation
+• Brute-Force Detection
+• VoIP Traffic Analysis
+• Basic SOC Operations
 #💡 What I Learned
 Through these six Wireshark SOC Labs, I gained practical experience in:
 -Network traffic and packet analysis.
