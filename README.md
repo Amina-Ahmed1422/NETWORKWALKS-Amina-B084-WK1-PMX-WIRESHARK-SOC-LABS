@@ -11,7 +11,7 @@ ip.addr == 192.168.1.1   Filter traffic involving a specific IP.
 udp                    Display UDP traffic.
 sip                   Display SIP packets.
 rtp                   Display RTP packets.
-💡 What I Learned
+#💡 What I Learned
 Through these six Wireshark SOC Labs, I gained practical experience in:
 -Network traffic and packet analysis.
 -Identifying suspicious IP addresses.
@@ -20,7 +20,7 @@ Through these six Wireshark SOC Labs, I gained practical experience in:
 -Brute-force attack detection.
 -VoIP traffic analysis and security.
 -Basic SOC investigation techniques.
-📊 Project Results
+📊# Project Results
 All six Wireshark SOC Labs were successfully completed.
 Assessment Result
 Lab 3 – Identify the Attacker's IP 100/100
