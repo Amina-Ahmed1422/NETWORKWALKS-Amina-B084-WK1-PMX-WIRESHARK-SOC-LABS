@@ -1,16 +1,5 @@
 # NETWORKWALKS-Amina-B084-WK1-PMX-WIRESHARK-SOC-LABS
 This a Wireshark  SOC labs
-# Wireshark Display Filters
-Display Filter        Purpose
-tcp.flags.syn == 1    Display TCP SYN packets.
-tcp.flags.ack == 1    Display TCP ACK packets.
-tcp                   Display TCP traffic.
-http                  Display HTTP traffic.
-http.request.method == "POST"   Display HTTP POST requests.
-ip.addr == 192.168.1.1   Filter traffic involving a specific IP.
-udp                    Display UDP traffic.
-sip                   Display SIP packets.
-rtp                   Display RTP packets.
 #💡 What I Learned
 Through these six Wireshark SOC Labs, I gained practical experience in:
 -Network traffic and packet analysis.
